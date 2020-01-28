@@ -1,0 +1,5 @@
+Index of wine		
+		
+02-Dec-96	105	Index
+30-Oct-95	10782	wine.data
+19-Sep-92	2643	wine.names
